@@ -5,14 +5,7 @@ import { getAuth } from 'firebase/auth';
 import { getDatabase } from 'firebase/database'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAgVw9kZ813F5C7itdO-5vSwOIdPxqT4ao",
-    authDomain: "trial-27a0e.firebaseapp.com",
-    databaseURL: "https://trial-27a0e-default-rtdb.firebaseio.com",
-    projectId: "trial-27a0e",
-    storageBucket: "trial-27a0e.appspot.com",
-    messagingSenderId: "1073716693490",
-    appId: "1:1073716693490:web:e800a31ce79a56b1a6c36b",
-    measurementId: "G-HT4EDBT0YH"
+    // configuration setup
 };
 
 // Initialize Firebase
